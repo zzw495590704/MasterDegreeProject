@@ -15,11 +15,11 @@
       <a><strong>原位测量几何信息、温度场以及喷嘴状态</strong></a>
     <br />    
     <br />
-      <a href="https://github.com/shaojintian/Best_README_template">2D线激光相机</a>
+      <a href="https://github.com/zzw495590704/MasterDegreeProject/tree/main/project/2D_line_laser">2D线激光相机</a>
       ·
-      <a href="https://github.com/shaojintian/Best_README_template/issues">热成像相机</a>
+      <a href="https://github.com/zzw495590704/MasterDegreeProject/tree/main/project/Thermal%20Camera">热成像相机</a>
       ·
-      <a href="https://github.com/shaojintian/Best_README_template/issues">编码器</a>
+      <a href="https://github.com/zzw495590704/MasterDegreeProject/tree/main/project/Encoder">编码器</a>
     </p>
   </p>
 
