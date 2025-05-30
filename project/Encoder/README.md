@@ -12,7 +12,7 @@
   <p align="center">
     监测挤出机电机转动进程，记录实时耗材质量
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>demo ?</strong></a>
+    <a href="https://github.com/zzw495590704/MasterDegreeProject/tree/main/project/Encoder/encoder_weight"><strong>demo ?</strong></a>
     <br /> 
   </p>
 
@@ -20,7 +20,7 @@
   <p align="center">
     监测传动电机转动进程，记录实时喷嘴位置
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>demo ?</strong></a>
+    <a href="https://github.com/zzw495590704/MasterDegreeProject/tree/main/project/Encoder/locate_nozzle"><strong>demo ?</strong></a>
     <br /> 
   </p>
 </p>
